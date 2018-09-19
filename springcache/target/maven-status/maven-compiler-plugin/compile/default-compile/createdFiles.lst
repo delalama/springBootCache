@@ -1,0 +1,5 @@
+com/example/springcache/SpringcacheApplication.class
+com/example/springcache/controller/namesController.class
+com/example/springcache/repository/BookRepository.class
+com/example/springcache/repository/SimpleBookRepository.class
+com/example/springcache/entities/Book.class
