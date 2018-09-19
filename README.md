@@ -14,15 +14,15 @@ Impossible to explain better than [Eugen Paraschiv](https://www.baeldung.com/spr
 
 When we've created the basic structure we only need to add this annotation
 
-![Image of Yaktocat](https://github.com/delalama/springBootCache/blob/master/pics/2)
+![Image of Yaktocat](https://github.com/delalama/springBootCache/blob/master/pics/2.png)
 
 When we ask to the controller we recieve this parsed JSON in our browser
 
-![Image of Yaktocat](https://github.com/delalama/springBootCache/blob/master/pics/3)
+![Image of Yaktocat](https://github.com/delalama/springBootCache/blob/master/pics/3.png)
 
 The we ask for the same information and we can analyze the results.
 
-![Image of Yaktocat](https://github.com/delalama/springBootCache/blob/master/pics/4)
+![Image of Yaktocat](https://github.com/delalama/springBootCache/blob/master/pics/4.png)
 
 # Conclusion
 We can appreciate a big time optimization working with simplest queries and entities. 
