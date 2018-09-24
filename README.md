@@ -27,7 +27,7 @@ When we ask to the controller we recieve this parsed JSON in our browser
 
 Then we ask for the same information and we can analyze the results.
 
-![Image of Yaktocat](https://github.com/delalama/springBootCache/blob/master/pics/4.png)
+![Image of Yaktocat](https://github.com/delalama/springBootCache/blob/master/pics/5.png)
 
 # Conclusion
 We can appreciate a big time optimization working with simplest queries and entities. 
