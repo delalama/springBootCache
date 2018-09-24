@@ -16,6 +16,11 @@ When we've created the basic structure we only need to add this annotation
 
 ![Image of Yaktocat](https://github.com/delalama/springBootCache/blob/master/pics/2.png)
 
+And tell to Spring which mehod has to work with
+
+![Image of Yaktocat](https://github.com/delalama/springBootCache/blob/master/pics/2.2.png)
+
+
 When we ask to the controller we recieve this parsed JSON in our browser
 
 ![Image of Yaktocat](https://github.com/delalama/springBootCache/blob/master/pics/3.png)
